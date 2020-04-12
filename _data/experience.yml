@@ -1,0 +1,25 @@
+# Experience template
+- layout: left
+  company: Intuit Inc. (Bangalore, India)
+  job_title: Software Engineer
+  dates: August 2019 - present
+  quote: >
+    Intuit Inc. is an American business and financial software company that develops and sells financial, accounting, and tax preparation software and related services for small businesses, accountants, and individuals. 
+  description: | # this will include new lines to allow paragraphs
+    As part of the Intuit Platform Business Unit, we as Global Network Services (GNS) team are responsible for providing internal tools for networking and security. My work is developing, automating, monitoring and managing these solutions for scalable and resilient consumption. I work with a highly skilled team on technologies like AWS, Akamai, SSL, DNS.
+# Experience template
+- layout: left
+  company: Cisco Systems Inc. (Bangalore, India)
+  job_title: Intern
+  dates: January 2019 - June 2019
+  quote: >
+    Cisco Systems, Inc. is an American multinational technology conglomerate which develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products.
+  description: | # this will include new lines to allow paragraphs
+    As part of the Data Center Business Group, I co-developed a POC monitoring tool to analyze and gauge the health of SAN Switches through CLI command outputs. Technologies involved Python, gRPC, Telemetry, Grafana, React JS, Electron JS, NX-OS and Influx DB.
+# Experience template
+- layout: left
+  company: Intuit Inc. (Bangalore, India)
+  job_title: Summer Intern
+  dates: May 2018 - July 2018
+  description: | # this will include new lines to allow paragraphs
+    Developed a POC receipt image analysis tool for the QuickBooks Desktop software, using AWS Rekognition, Python, C#, Socket programming and other AWS offerings to successfully demo the functionality.

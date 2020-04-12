@@ -1,0 +1,106 @@
+# Site
+repository: speeeddy/speeeddy.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Nipun Sood
+title: Software Engineer
+email: contact@nipunsood.dev
+website: nipunsood.dev
+
+darkmode: false
+
+# Social links
+github_username:  speeeddy
+stackoverflow_username: Speeeddy
+linkedin_username: nipun-sood
+orcid_username: 0000-0002-0236-8947
+
+# Additional icon links
+additional_links:
+- title: Steam
+  icon: fa-steam
+  url: https://steamcommunity.com/id/speeeddy10
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Nipun and I’m a 22-year-old software engineer. Although my primary focus is on back-end technologies, I regularly get my hands into front end and dev-ops related work. I like designing as much as getting neck-deep into code.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Python</mark>
+
+  I am comfortable with: Java, Docker, MySQL, Linux, Git
+
+# Projects Section
+projects_title: My Awesome Projects #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Industry Experience #(Use this to override about experience section title)
+
+# Education Section
+education_title: Alma Mater #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  My free time is often spent exploring new and unfamiliar technologies, conceptualizing products, starting novel projects and experiments.
+
+  - *Technical interests:* Cyber Security, Networks, Linux
+  
+  I am also an avid gamer, having assembled my own desktop computer in 2019.
+  - *Desktop Specs:* Ryzen 3600X, Nvidia RTX 2060, Acer Predator XB271HU Monitor (165Hz, 2560x1440p, G-Sync)
+  - *Gaming interests:* Dota 2, Witcher 3, FIFA
+
+  Ever-ready to play football and badminton
+
+  **Publications**
+  - [Collaborative Neighbor Discovery with Slow Scan for Directional Sensor Networks](https://doi.org/10.1109/atnac.2018.8615372) : *28th International Telecommunication Networks and Applications Conference, ITNAC* (2018)
+  - [Multiple token-based neighbor discovery for directional sensor networks](https://doi.org/10.4218/etrij.2018-0604) : *Electronics and Telecommunications Research Institute Journal* (2020)
+  - [DCS-MAC: A Distributed Cross-Layer Communication Protocol for Directional Sensor Networks](https://doi.org/10.1007/978-3-030-15032-7_57) : *Advances in Intelligent Systems and Computing* (2020)
+
+
+  **Certifications**
+  - AWS Cloud Practitioner (Ongoing)
+
+  **Credits to Sources for Information on this page**
+  - [Intuit Inc. - Brief description](https://en.wikipedia.org/wiki/Intuit)
+  - [Cisco Systems Inc. - Brief Description](https://en.wikipedia.org/wiki/Cisco_Systems)
+  - [BITS Pilani - Logo](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani)
+  - [SSSVV Indore - Logo](http://sathyasaiindore.com/)
+  - [Resumé - Theme](https://github.com/sproogen/modern-resume-theme)
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

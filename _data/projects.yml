@@ -1,0 +1,18 @@
+# Project template
+- layout: top-middle
+  name: Up File Sharing
+  link: https://github.com/Speeeddy/up-file-sharing
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Up, the android-web-application for seamless file transfers. This was part of Software Engineering course at BITS Goa and was presented successfully on 28th November, 2018.
+  description: | # this will include new lines to allow paragraphs
+    As part of this project, the team developed a web application, a mobile application, and a REST API layer to facilitate file transfers between heterogenous devices. A need for such an application was felt during college by our collective experiences while sharing images of notes before examinations. When transferring from phone to another device like a laptop, the usual steps involved either opening mail application, attaching image, typing in the recepient email and sending. This application reduced effort and was a successful and extensive proof-of-concept. Project was built using Python, Node JS, Java and AWS.
+- layout: top-middle
+  name: Virtual Reality Chess Game
+  link: https://github.com/Speeeddy/ChessVR
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    ChessVR, the android based VR Chess Game is a game designed in Unity 3D. This was a project for the course "Software Development for Portable Devices" at BITS Goa and was demonstrated live on 21st April, 2018.
+  description: | # this will include new lines to allow paragraphs
+    The chess logic has been coded from scratch in C#. This game was playable online with two users, choosing white and black. A headset had to be worn while playing, and the chess pieces were moved by focusing the headset on a piece and then to the chess board location. Unity3D, GoogleVR and Firebase Realtime Database were important technologies used for this project.
+  

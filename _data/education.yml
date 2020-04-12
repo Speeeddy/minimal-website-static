@@ -1,0 +1,14 @@
+# Education Template
+- layout: left-edu
+  name: Birla Institute of Technology and Science, Goa Campus
+  dates: 2015 - 2019
+  qualification: B.E. (Hons.) Computer Science
+  # quote: >
+    # Bachelor's degree 
+  # description: | # this will include new lines to allow paragraphs
+    # Description of qualification
+  image: images/bits-pilani.png
+- layout: left-edu
+  name: Sri Sathya Sai Vidya Vihar, Indore
+  qualification: Schooling
+  image: images/sssvv.png
