@@ -72,12 +72,6 @@ more_content: | # this will include new lines to allow paragraphs
   **Certifications**
   - AWS Cloud Practitioner (Ongoing)
 
-  **Credits to Sources for Information on this page**
-  - [Intuit Inc. - Brief description](https://en.wikipedia.org/wiki/Intuit)
-  - [Cisco Systems Inc. - Brief Description](https://en.wikipedia.org/wiki/Cisco_Systems)
-  - [BITS Pilani - Logo](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani)
-  - [SSSVV Indore - Logo](http://sathyasaiindore.com/)
-  - [Resumé - Theme](https://github.com/sproogen/modern-resume-theme)
 # Footer
 footer_show_references: false
 
