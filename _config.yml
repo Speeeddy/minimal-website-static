@@ -35,7 +35,7 @@ gtag: "UA-163493592-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Nipun and I’m a 22-year-old software engineer. Although my primary focus is on back-end technologies, I regularly get my hands into front end and dev-ops related work. I like designing as much as getting neck-deep into code.
+  Hi, my name is Nipun and I’m a 23-year-old software engineer. Although my primary focus is on back-end technologies, I regularly get my hands into front end and dev-ops related work. I like designing as much as getting neck-deep into code.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Python</mark>
 
