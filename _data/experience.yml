@@ -1,12 +1,15 @@
 # Experience template
 - layout: left
   company: Intuit Inc. (Bangalore, India)
-  job_title: Software Engineer
+  job_title: Software Engineer I&II
   dates: August 2019 - present
   quote: >
     Intuit Inc. is an American business and financial software company that develops and sells financial, accounting, and tax preparation software and related services for small businesses, accountants, and individuals. 
   description: | # this will include new lines to allow paragraphs
-    As part of the Intuit Platform Business Unit, we as Global Network Services (GNS) team are responsible for providing internal tools for networking and security. My work is developing, automating, monitoring and managing these solutions for scalable and resilient consumption. I work with a highly skilled team on technologies like AWS, Akamai, SSL, DNS.
+    As part of the Cloud Engineering & Operations, my team is responsible for providing internal tools for networking and security. I work with a highly skilled team on technologies like AWS, Akamai, SSL, DNS.
+    - I own the design and development of the internal certificate management tool which serves 1000s of certificates across Intuit through CAs like DigiCert and Amazon. This system must be highly available and robust due to its criticality.
+    - I customized our CI/CD pipeline using Jenkins and AWS (CodeDeploy) and drove its adoption. Post adoption, developers saved nearly 30 minutes per deployment, while scaling up number of deployments done. Reliability of systems improved due to automated rolling deployment, health tests and automated rolling rollback in case of issues.
+    - Automated AWS EC2 Hygiene (EC2 AMI refreshing) which saves 8-10 developer hours every month per team, while improving security and compliance by having latest OS patches applied regularly.
 # Experience template
 - layout: left
   company: Cisco Systems Inc. (Bangalore, India)
@@ -15,7 +18,7 @@
   quote: >
     Cisco Systems, Inc. is an American multinational technology conglomerate which develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products.
   description: | # this will include new lines to allow paragraphs
-    As part of the Data Center Business Group, I co-developed a POC monitoring tool to analyze and gauge the health of SAN Switches through CLI command outputs. Technologies involved Python, gRPC, Telemetry, Grafana, React JS, Electron JS, NX-OS and Influx DB.
+    As part of the Data Center Business Group, I co-developed a POC monitoring tool to visually analyze and gauge the health of SAN switches network using data obtained from CLI command outputs. Also developed a monitoring dashboard for SAN Telemetry data using STS. Technologies involved Python, gRPC, Telemetry, Grafana, React JS, Electron JS, NX-OS and Influx DB.
 # Experience template
 - layout: left
   company: Intuit Inc. (Bangalore, India)

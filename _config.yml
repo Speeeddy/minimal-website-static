@@ -35,17 +35,17 @@ gtag: "UA-163493592-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Nipun and I’m a 23-year-old software engineer. Although my primary focus is on back-end technologies, I regularly get my hands into front end and dev-ops related work. I like designing as much as getting neck-deep into code.
+  Hi, my name is Nipun and I’m a 23-year-old software engineer. My primary focus is on back-end technologies, with focus on building solutions around Amazon Web Services (AWS). I like designing as much as getting neck-deep into code.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Python</mark>
 
-  I am comfortable with: Java, Docker, MySQL, Linux, Git
-
-# Projects Section
-projects_title: My Awesome Projects #(Use this to override about projects section title)
+  I am comfortable with: Java, RESTful APIs, MySQL, CICD, Linux, Git
 
 # Experience Section
 experience_title: Industry Experience #(Use this to override about experience section title)
+
+# Projects Section
+projects_title: My Awesome Projects #(Use this to override about projects section title)
 
 # Education Section
 education_title: Alma Mater #(Use this to override about education section title)
@@ -55,7 +55,7 @@ education_title: Alma Mater #(Use this to override about education section title
 more_content: | # this will include new lines to allow paragraphs
   My free time is often spent exploring new and unfamiliar technologies, conceptualizing products, starting novel projects and experiments.
 
-  - *Technical interests:* Cyber Security, Networks, Linux
+  - *Technical interests:* Cloud technologies, Cyber Security, Networks, IoT
   
   I am also an avid gamer, having assembled my own desktop computer in 2019.
   - *Desktop Specs:* Ryzen 3600X, Nvidia RTX 2060, Acer Predator XB271HU Monitor (165Hz, 2560x1440p, G-Sync)
@@ -70,7 +70,8 @@ more_content: | # this will include new lines to allow paragraphs
 
 
   **Certifications**
-  - AWS Cloud Practitioner
+  - [AWS Developer Associate](https://www.credly.com/badges/1fc9af31-41f5-4369-bd76-d1074673099d/public_url)
+  - [AWS Cloud Practitioner](https://www.credly.com/badges/3cfcc5d7-26ca-461e-b60b-beeb95658198/public_url)
 
 # Footer
 footer_show_references: false
