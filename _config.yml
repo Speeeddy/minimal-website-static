@@ -35,7 +35,7 @@ gtag: "UA-163493592-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Nipun and I’m a 23-year-old software engineer. My primary focus is on back-end technologies, with focus on building solutions around Amazon Web Services (AWS). I like designing as much as getting neck-deep into code.
+  Hi, my name is Nipun and I’m a 23-year-old software engineer. My primary focus is on back-end technologies, building solutions around Amazon Web Services (AWS). I'm an AWS certified Developer Associate, and really like to get hands-on and implement solutions.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Python</mark>
 
@@ -59,19 +59,19 @@ more_content: | # this will include new lines to allow paragraphs
   
   I am also an avid gamer, having assembled my own desktop computer in 2019.
   - *Desktop Specs:* Ryzen 3600X, Nvidia RTX 2060, Acer Predator XB271HU Monitor (165Hz, 2560x1440p, G-Sync)
-  - *Gaming interests:* Dota 2, Witcher 3, FIFA
+  - *Gaming interests:* Dota 2, Valorant, FIFA
 
-  Ever-ready to play football and badminton
+  Ever-ready to play football and badminton.
+
+  **Certifications**
+  - [AWS Developer Associate](https://www.credly.com/badges/1fc9af31-41f5-4369-bd76-d1074673099d/public_url)
+  - [AWS Cloud Practitioner](https://www.credly.com/badges/3cfcc5d7-26ca-461e-b60b-beeb95658198/public_url)
 
   **Publications**
   - [Collaborative Neighbor Discovery with Slow Scan for Directional Sensor Networks](https://doi.org/10.1109/atnac.2018.8615372) : *28th International Telecommunication Networks and Applications Conference, ITNAC* (2018)
   - [Multiple token-based neighbor discovery for directional sensor networks](https://doi.org/10.4218/etrij.2018-0604) : *Electronics and Telecommunications Research Institute Journal* (2020)
   - [DCS-MAC: A Distributed Cross-Layer Communication Protocol for Directional Sensor Networks](https://doi.org/10.1007/978-3-030-15032-7_57) : *Advances in Intelligent Systems and Computing* (2020)
 
-
-  **Certifications**
-  - [AWS Developer Associate](https://www.credly.com/badges/1fc9af31-41f5-4369-bd76-d1074673099d/public_url)
-  - [AWS Cloud Practitioner](https://www.credly.com/badges/3cfcc5d7-26ca-461e-b60b-beeb95658198/public_url)
 
 # Footer
 footer_show_references: false
