@@ -35,7 +35,7 @@ gtag: "UA-163493592-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Nipun and I’m a 23-year-old software engineer. My primary focus is on back-end technologies, building solutions around Amazon Web Services (AWS). I'm an AWS certified Developer Associate, and really like to get hands-on and implement solutions.
+  Hi, my name is Nipun and I’m a 24-year-old software engineer. My primary focus is on back-end technologies, building solutions around Amazon Web Services (AWS). I'm an AWS certified Developer Associate, and really like to get hands-on and implement solutions.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Python</mark>
 
